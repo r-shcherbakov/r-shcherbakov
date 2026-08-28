@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Roman. Welcome to my Profile!   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=r-shcherbakov.repoName)
 
-- 🔭 I’m currently working as Lead / Senior Machine Learning Engineer
+- 🔭 I’m currently working as Lead Machine Learning Engineer
 - 💬 Ask me about: Machine Learning, Systems Design, High-Load Real-Time Data Analytics, Petroleum Engineering
 - 👯 I'm interested in collaborating to solve complex technical challenges that arise at the intersection of data science and the energy industry.
 
